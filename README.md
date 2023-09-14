@@ -1,2 +1,2 @@
-# lab-six
-html + css + javascript
+# shop-task
+Lab four collaboration
